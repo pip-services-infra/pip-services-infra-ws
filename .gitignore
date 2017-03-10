@@ -1,0 +1,10 @@
+/pip-services-devenv
+
+/pip-services-logging-node
+/pip-clients-logging-node
+
+/pip-services-syslog-node
+/pip-clients-syslog-node
+
+/pip-services-counters-node
+/pip-clients-counters-node
