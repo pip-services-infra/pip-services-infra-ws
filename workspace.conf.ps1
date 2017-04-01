@@ -13,4 +13,4 @@ $VersionControlRepos = @(
 
 	"https://github.com/pip-services-infrastructure/pip-services-counters-node.git"
 	"https://github.com/pip-services-infrastructure/pip-clients-counters-node.git"
-)ß
+)
