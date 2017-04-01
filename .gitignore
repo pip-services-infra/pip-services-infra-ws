@@ -3,8 +3,11 @@
 /pip-services-logging-node
 /pip-clients-logging-node
 
-/pip-services-syslog-node
-/pip-clients-syslog-node
+/pip-services-eventlog-node
+/pip-clients-eventlog-node
+
+/pip-services-registry-node
+/pip-clients-registry-node
 
 /pip-services-counters-node
 /pip-clients-counters-node
