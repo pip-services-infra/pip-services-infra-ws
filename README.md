@@ -7,7 +7,9 @@ The workspace enables build, test, and release across the following projects:
 
 - **pip-services-devenv** - dockerized infrastructure services for development and testing
 - **pip-services-logging-node** - Logging microservice in Node.js
+- **pip-services-logging-python** - Logging microservice in Python
 - **pip-clients-logging-node** - Client to Logging microservice in Node.js
+- **pip-clients-logging-python** - Client to Logging microservice in Python
 - **pip-services-syslog-node** - System events microservice in Node.js
 - **pip-clients-syslog-node** - Client to System events microservice in Node.js
 
