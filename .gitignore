@@ -1,7 +1,9 @@
 /pip-services-devenv
 
 /pip-services-logging-node
+/pip-services-logging-python
 /pip-clients-logging-node
+/pip-clients-logging-python
 
 /pip-services-eventlog-node
 /pip-clients-eventlog-node
