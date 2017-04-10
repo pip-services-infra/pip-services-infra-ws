@@ -4,6 +4,7 @@ $global:Services = @(
     "pip-services-eventlog-node"
     "pip-services-registry"
     "pip-services-counters-node"
+    "pip-services-statistics-node"
 )
 
 $global:Clients = @(
@@ -12,4 +13,5 @@ $global:Clients = @(
     "pip-clients-eventlog-node"
     "pip-clients-registry-node"
     "pip-clients-counters-node"
+    "pip-clients-statistics-node"
 )

@@ -13,3 +13,6 @@
 
 /pip-services-counters-node
 /pip-clients-counters-node
+
+/pip-services-statistics-node
+/pip-clients-statistics-node

@@ -10,8 +10,12 @@ The workspace enables build, test, and release across the following projects:
 - **pip-services-logging-python** - Logging microservice in Python
 - **pip-clients-logging-node** - Client to Logging microservice in Node.js
 - **pip-clients-logging-python** - Client to Logging microservice in Python
-- **pip-services-syslog-node** - System events microservice in Node.js
-- **pip-clients-syslog-node** - Client to System events microservice in Node.js
+- **pip-services-counters-node** - Performance counters microservice in Node.js
+- **pip-clients-counters-node** - Client to Performance counters microservice in Node.js
+- **pip-services-eventlog-node** - System event log microservice in Node.js
+- **pip-clients-eventlog-node** - Client to System event log microservice in Node.js
+- **pip-services-statistics-node** - Statistics microservice in Node.js
+- **pip-clients-statistics-node** - Client to Statistics microservice in Node.js
 
 ## Installation
 
