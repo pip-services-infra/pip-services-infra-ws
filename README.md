@@ -16,6 +16,10 @@ The workspace enables build, test, and release across the following projects:
 - **pip-clients-eventlog-node** - Client to System event log microservice in Node.js
 - **pip-services-statistics-node** - Statistics microservice in Node.js
 - **pip-clients-statistics-node** - Client to Statistics microservice in Node.js
+- **pip-services-facets-node** - Faceted search microservice in Node.js
+- **pip-clients-facets-node** - Client to Faceted search microservice in Node.js
+- **pip-services-search-node** - Full text search microservice in Node.js
+- **pip-clients-search-node** - Client to Full test search microservice in Node.js
 
 ## Installation
 

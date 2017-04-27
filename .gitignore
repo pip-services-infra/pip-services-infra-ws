@@ -16,3 +16,9 @@
 
 /pip-services-statistics-node
 /pip-clients-statistics-node
+
+/pip-services-facets-node
+/pip-clients-facets-node
+
+/pip-services-search-node
+/pip-clients-search-node
