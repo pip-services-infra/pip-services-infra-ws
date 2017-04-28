@@ -19,6 +19,11 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services-infrastructure/pip-services-statistics-node.git"
 	"https://github.com/pip-services-infrastructure/pip-clients-statistics-node.git"
 
+	"https://github.com/pip-services-infrastructure/pip-services-blobs-node.git"
+	"https://github.com/pip-services-infrastructure/pip-clients-blobs-node.git"
+
+	"https://github.com/pip-services-infrastructure/pip-clients-tempblobs-node.git"
+
 	"https://github.com/pip-services-infrastructure/pip-services-facets-node.git"
 	"https://github.com/pip-services-infrastructure/pip-clients-facets-node.git"
 

@@ -5,6 +5,7 @@ $global:Services = @(
     "pip-services-registry"
     "pip-services-counters-node"
     "pip-services-statistics-node"
+    "pip-services-blobs-node"
     "pip-services-facets-node"
     "pip-services-search-node"
 )
@@ -16,6 +17,8 @@ $global:Clients = @(
     "pip-clients-registry-node"
     "pip-clients-counters-node"
     "pip-clients-statistics-node"
+    "pip-clients-blobs-node"
+    "pip-clients-tempblobs-node"
     "pip-clients-facets-node"
     "pip-clients-search-node"
 )

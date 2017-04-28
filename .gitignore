@@ -17,6 +17,11 @@
 /pip-services-statistics-node
 /pip-clients-statistics-node
 
+/pip-services-blobs-node
+/pip-clients-blos-node
+
+/pip-clients-tempblobs-node
+
 /pip-services-facets-node
 /pip-clients-facets-node
 
