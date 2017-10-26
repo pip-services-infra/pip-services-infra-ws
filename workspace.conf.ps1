@@ -13,6 +13,9 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services-infrastructure/pip-services-registry-node.git"
 	"https://github.com/pip-services-infrastructure/pip-clients-registry-node.git"
 
+	"https://github.com/pip-services-infrastructure/pip-services-settings-node.git"
+	"https://github.com/pip-services-infrastructure/pip-clients-settings-node.git"
+
 	"https://github.com/pip-services-infrastructure/pip-services-counters-node.git"
 	"https://github.com/pip-services-infrastructure/pip-clients-counters-node.git"
 
@@ -29,4 +32,12 @@ $VersionControlRepos = @(
 
 	"https://github.com/pip-services-infrastructure/pip-services-search-node.git"
 	"https://github.com/pip-services-infrastructure/pip-clients-search-node.git"
+
+	"https://github.com/pip-services-infrastructure/pip-services-emaildelivery-node.git"
+	"https://github.com/pip-services-infrastructure/pip-clients-emaildelivery-node.git"
+
+	"https://github.com/pip-services-infrastructure/pip-services-smsdelivery-node.git"
+	"https://github.com/pip-services-infrastructure/pip-clients-smsdelivery-node.git"
+	
+	"https://github.com/pip-services-infrastructure/pip-facade-infrastructure-node.git"
 )
