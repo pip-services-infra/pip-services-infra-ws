@@ -31,10 +31,10 @@
 /pip-services-search-node
 /pip-clients-search-node
 
-/pip-services-emaildelivery-node
-/pip-clients-emaildelivery-node
+/pip-services-email-node
+/pip-clients-email-node
 
-/pip-services-smsdelivery-node
-/pip-clients-smsdelivery-node
+/pip-services-sms-node
+/pip-clients-sms-node
 
 /pip-facade-infrastructure-node

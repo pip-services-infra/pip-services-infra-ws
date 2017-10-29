@@ -9,8 +9,8 @@ $global:Services = @(
     "pip-services-blobs-node"
     "pip-services-facets-node"
     "pip-services-search-node"
-    "pip-services-emaildelivery-node"
-    "pip-services-smsdelivery-node"
+    "pip-services-email-node"
+    "pip-services-sms-node"
     "pip-facade-infrastructure-node"
 )
 
@@ -26,6 +26,6 @@ $global:Clients = @(
     "pip-clients-tempblobs-node"
     "pip-clients-facets-node"
     "pip-clients-search-node"
-    "pip-clients-emaildelivery-node"
-    "pip-clients-smsdelivery-node"
-    )
+    "pip-clients-email-node"
+    "pip-clients-sms-node"
+)
