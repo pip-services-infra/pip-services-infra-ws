@@ -11,6 +11,8 @@ $global:Services = @(
     "pip-services-search-node"
     "pip-services-email-node"
     "pip-services-sms-node"
+    "pip-services-pushnotifications-node"
+    "pip-services-keygen-node"
     "pip-facade-infrastructure-node"
 )
 
@@ -28,4 +30,6 @@ $global:Clients = @(
     "pip-clients-search-node"
     "pip-clients-email-node"
     "pip-clients-sms-node"
+    "pip-clients-pushnotifications-node"
+    "pip-clients-keygen-node"
 )

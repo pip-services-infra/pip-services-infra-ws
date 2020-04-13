@@ -38,6 +38,12 @@ $VersionControlRepos = @(
 
 	"https://github.com/pip-services-infrastructure/pip-services-sms-node.git"
 	"https://github.com/pip-services-infrastructure/pip-clients-sms-node.git"
+
+	"https://github.com/pip-services-infrastructure/pip-services-keygen-node.git"
+	"https://github.com/pip-services-infrastructure/pip-clients-keygen-node.git"
+
+	"https://github.com/pip-services-infrastructure/pip-services-pushnotifications-node.git"
+	"https://github.com/pip-services-infrastructure/pip-clients-pushnotifications-node.git"
 	
 	"https://github.com/pip-services-infrastructure/pip-facade-infrastructure-node.git"
 )
